@@ -19,9 +19,14 @@ A clean, vanilla-JavaScript Todo app (Persian UI, RTL) that demonstrates:
 
 ## Preview
 
-| Empty State | Focused Input | Filled List | Editing State |
-|---|---|---|---|
-| ![empty](./img/01.png) | ![focus](./img/02.png) | ![filled](./img/03.png) | ![editing](./img/04.png) |
+
+| Empty State | Focused Input |
+|---|---|
+| ![empty](./img/01.png) | ![focus](./img/02.png) |
+
+| Filled List | Editing State |
+|---|---|
+| ![filled](./img/03.png) | ![editing](./img/04.png) |
 
 ---
 
